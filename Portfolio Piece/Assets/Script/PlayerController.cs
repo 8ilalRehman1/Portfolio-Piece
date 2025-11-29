@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.InputSystem;
 using TMPro;
+using UnityEngine.SceneManagement;
 
 public class PlayerController : MonoBehaviour
 {
@@ -14,6 +15,11 @@ public class PlayerController : MonoBehaviour
     public TextMeshProUGUI countText;
     public float speed = 0;
     public GameObject winTextObject;
+    public AudioSource soundSource;
+    public AudioSource sourceOfSong;
+    public AudioClip coinSound, playerDying, song2;
+    public string sceneName;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -21,6 +27,8 @@ public class PlayerController : MonoBehaviour
         count = 0;
         SetCountText();
         winTextObject.SetActive(false);
+        sourceOfSong.clip = song2;
+        sourceOfSong.Play();
     }
     private void FixedUpdate()
     {
@@ -41,16 +49,20 @@ public class PlayerController : MonoBehaviour
             other.gameObject.SetActive(false);
             count = count + 1;
             SetCountText();
+            soundSource.clip = coinSound;
+            soundSource.Play();
         }
 
     }
     void SetCountText()
     {
         countText.text = "Count: " + count.ToString();
-        if (count >= 6)
+        if (count == 6)
         {
             winTextObject.SetActive(true);
             Destroy(GameObject.FindGameObjectWithTag("Enemy"));
+            SceneManager.LoadScene(sceneName);
+
         }
     }
     private void OnCollisionEnter(Collision collision)
@@ -62,6 +74,8 @@ public class PlayerController : MonoBehaviour
             // Update the winText to display "You Lose!"
             winTextObject.gameObject.SetActive(true);
             winTextObject.GetComponent<TextMeshProUGUI>().text = "You Lose!";
+            soundSource.clip = playerDying;
+            soundSource.Play();
         }
     }
 }

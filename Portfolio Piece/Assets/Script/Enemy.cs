@@ -6,12 +6,15 @@ using UnityEngine.AI;
 public class Enemy : MonoBehaviour
 {
     public Transform player;
+    public AudioSource soundSource;
+    public AudioClip enemyDying;
 
     private NavMeshAgent navMeshAgent;
     // Start is called before the first frame update
     void Start()
     {
         navMeshAgent = GetComponent<NavMeshAgent>();
+        soundSource.clip = enemyDying;
     }
 
     // Update is called once per frame
@@ -21,5 +24,9 @@ public class Enemy : MonoBehaviour
         {
             navMeshAgent.SetDestination(player.position);
         }
+    }
+    private void OnDestroy()
+    {
+        soundSource.Play();
     }
 }
