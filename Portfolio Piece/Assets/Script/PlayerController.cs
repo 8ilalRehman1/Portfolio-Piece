@@ -59,10 +59,11 @@ public class PlayerController : MonoBehaviour
         countText.text = "Count: " + count.ToString();
         if (count == 6)
         {
+            soundSource.Play();
             winTextObject.SetActive(true);
             Destroy(GameObject.FindGameObjectWithTag("Enemy"));
-            SceneManager.LoadScene(sceneName);
-
+            StartCoroutine(DeathDelay());
+            Debug.Log("Enemy has died");
         }
     }
     private void OnCollisionEnter(Collision collision)
@@ -77,5 +78,12 @@ public class PlayerController : MonoBehaviour
             soundSource.clip = playerDying;
             soundSource.Play();
         }
+    }
+    IEnumerator DeathDelay()
+    {
+        yield return new WaitForSeconds(3.0f); // Wait for 3 seconds
+        soundSource.Play();
+        SceneManager.LoadScene(sceneName);
+
     }
 }

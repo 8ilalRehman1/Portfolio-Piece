@@ -363,6 +363,7 @@
 "Assets/Script/AudioManager.cs"
 "Assets/Script/CameraController.cs"
 "Assets/Script/Enemy.cs"
+"Assets/Script/EnemyDyingSound.cs"
 "Assets/Script/MainMenuToGame.cs"
 "Assets/Script/PlayAudio.cs"
 "Assets/Script/PlayerController.cs"
