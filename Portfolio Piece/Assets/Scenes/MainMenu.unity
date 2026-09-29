@@ -442,7 +442,7 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1 &1173877223
+--- !u!1 &971484017
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -450,38 +450,43 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-  - component: {fileID: 1173877225}
-  - component: {fileID: 1173877224}
-  - component: {fileID: 1173877226}
+  - component: {fileID: 971484019}
+  - component: {fileID: 971484018}
+  - component: {fileID: 971484020}
   m_Layer: 0
-  m_Name: SceneManager
+  m_Name: AudioManager
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!114 &1173877224
+--- !u!114 &971484018
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1173877223}
+  m_GameObject: {fileID: 971484017}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 0df43ee9840de6d4598cff94b718e879, type: 3}
+  m_Script: {fileID: 11500000, guid: aa847281d41becd478decf903db9263a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sceneName: GameLevel
-  whatSong: {fileID: 1173877226}
-  songOne: {fileID: 8300000, guid: b02247f14d2db764bb879a92385d4cef, type: 3}
---- !u!4 &1173877225
+  musicSource: {fileID: 971484020}
+  coinSFXsource: {fileID: 0}
+  enemyDeathNoise: {fileID: 0}
+  playerDeathNoise: {fileID: 0}
+  coinSFXclip: {fileID: 0}
+  enemyDeathClip: {fileID: 0}
+  playerDeathClip: {fileID: 0}
+  musicClip: {fileID: 8300000, guid: b02247f14d2db764bb879a92385d4cef, type: 3}
+--- !u!4 &971484019
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1173877223}
+  m_GameObject: {fileID: 971484017}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 322.17932, y: 249.19528, z: 0}
@@ -490,13 +495,13 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!82 &1173877226
+--- !u!82 &971484020
 AudioSource:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1173877223}
+  m_GameObject: {fileID: 971484017}
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
@@ -586,6 +591,51 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+--- !u!1 &1173877223
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1173877225}
+  - component: {fileID: 1173877224}
+  m_Layer: 0
+  m_Name: SceneManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1173877224
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1173877223}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0df43ee9840de6d4598cff94b718e879, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sceneName: GameLevel
+--- !u!4 &1173877225
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1173877223}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 322.17932, y: 249.19528, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1230157056
 GameObject:
   m_ObjectHideFlags: 0
@@ -898,3 +948,4 @@ SceneRoots:
   - {fileID: 1356644975}
   - {fileID: 1568333294}
   - {fileID: 1173877225}
+  - {fileID: 971484019}

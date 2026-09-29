@@ -3,56 +3,28 @@
   "WorkspaceRootPath": "C:\\PortfoliioPiece\\Portfolio-Piece\\Portfolio Piece\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{86DACA80-A731-688E-397A-7857ADC0BE9B}|Assembly-CSharp.csproj|C:\\PortfoliioPiece\\Portfolio-Piece\\Portfolio Piece\\assets\\script\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{86DACA80-A731-688E-397A-7857ADC0BE9B}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{86DACA80-A731-688E-397A-7857ADC0BE9B}|Assembly-CSharp.csproj|C:\\PortfoliioPiece\\Portfolio-Piece\\Portfolio Piece\\assets\\script\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{86DACA80-A731-688E-397A-7857ADC0BE9B}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{86DACA80-A731-688E-397A-7857ADC0BE9B}|Assembly-CSharp.csproj|C:\\PortfoliioPiece\\Portfolio-Piece\\Portfolio Piece\\assets\\script\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{86DACA80-A731-688E-397A-7857ADC0BE9B}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{86DACA80-A731-688E-397A-7857ADC0BE9B}|Assembly-CSharp.csproj|C:\\PortfoliioPiece\\Portfolio-Piece\\Portfolio Piece\\assets\\script\\rotator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{86DACA80-A731-688E-397A-7857ADC0BE9B}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\rotator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{86DACA80-A731-688E-397A-7857ADC0BE9B}|Assembly-CSharp.csproj|C:\\PortfoliioPiece\\Portfolio-Piece\\Portfolio Piece\\assets\\script\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86DACA80-A731-688E-397A-7857ADC0BE9B}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{86DACA80-A731-688E-397A-7857ADC0BE9B}|Assembly-CSharp.csproj|C:\\PortfoliioPiece\\Portfolio-Piece\\Portfolio Piece\\assets\\script\\mainmenutogame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{86DACA80-A731-688E-397A-7857ADC0BE9B}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\mainmenutogame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{86DACA80-A731-688E-397A-7857ADC0BE9B}|Assembly-CSharp.csproj|C:\\PortfoliioPiece\\Portfolio-Piece\\Portfolio Piece\\assets\\script\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{86DACA80-A731-688E-397A-7857ADC0BE9B}|Assembly-CSharp.csproj|C:\\PortfoliioPiece\\Portfolio-Piece\\Portfolio Piece\\assets\\script\\rotator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86DACA80-A731-688E-397A-7857ADC0BE9B}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\rotator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86DACA80-A731-688E-397A-7857ADC0BE9B}|Assembly-CSharp.csproj|c:\\portfoliiopiece\\portfolio-piece\\portfolio piece\\assets\\script\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86DACA80-A731-688E-397A-7857ADC0BE9B}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86DACA80-A731-688E-397A-7857ADC0BE9B}|Assembly-CSharp.csproj|c:\\portfoliiopiece\\portfolio-piece\\portfolio piece\\assets\\script\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{86DACA80-A731-688E-397A-7857ADC0BE9B}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{86DACA80-A731-688E-397A-7857ADC0BE9B}|Assembly-CSharp.csproj|C:\\PortfoliioPiece\\Portfolio-Piece\\Portfolio Piece\\assets\\shaders\\emission.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{86DACA80-A731-688E-397A-7857ADC0BE9B}|Assembly-CSharp.csproj|solutionrelative:assets\\shaders\\emission.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{86DACA80-A731-688E-397A-7857ADC0BE9B}|Assembly-CSharp.csproj|C:\\PortfoliioPiece\\Portfolio-Piece\\Portfolio Piece\\assets\\shaders\\specularmetallic.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{86DACA80-A731-688E-397A-7857ADC0BE9B}|Assembly-CSharp.csproj|solutionrelative:assets\\shaders\\specularmetallic.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{86DACA80-A731-688E-397A-7857ADC0BE9B}|Assembly-CSharp.csproj|C:\\PortfoliioPiece\\Portfolio-Piece\\Portfolio Piece\\assets\\shaders\\normalmapping.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{86DACA80-A731-688E-397A-7857ADC0BE9B}|Assembly-CSharp.csproj|solutionrelative:assets\\shaders\\normalmapping.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\PortfoliioPiece\\Portfolio-Piece\\Portfolio Piece\\Assets\\PlayAudio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\PlayAudio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{86DACA80-A731-688E-397A-7857ADC0BE9B}|Assembly-CSharp.csproj|C:\\PortfoliioPiece\\Portfolio-Piece\\Portfolio Piece\\assets\\shaders\\colourvertex.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{86DACA80-A731-688E-397A-7857ADC0BE9B}|Assembly-CSharp.csproj|solutionrelative:assets\\shaders\\colourvertex.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{86DACA80-A731-688E-397A-7857ADC0BE9B}|Assembly-CSharp.csproj|C:\\PortfoliioPiece\\Portfolio-Piece\\Portfolio Piece\\assets\\shaders\\hologram.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{86DACA80-A731-688E-397A-7857ADC0BE9B}|Assembly-CSharp.csproj|solutionrelative:assets\\shaders\\hologram.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{86DACA80-A731-688E-397A-7857ADC0BE9B}|Assembly-CSharp.csproj|C:\\PortfoliioPiece\\Portfolio-Piece\\Portfolio Piece\\assets\\shaders\\bumpmapping.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{86DACA80-A731-688E-397A-7857ADC0BE9B}|Assembly-CSharp.csproj|solutionrelative:assets\\shaders\\bumpmapping.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,30 +34,56 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "C:\\PortfoliioPiece\\Portfolio-Piece\\Portfolio Piece\\Assets\\Script\\Enemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Enemy.cs",
+              "ToolTip": "C:\\PortfoliioPiece\\Portfolio-Piece\\Portfolio Piece\\Assets\\Script\\Enemy.cs",
+              "RelativeToolTip": "Assets\\Script\\Enemy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T22:30:32.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CameraController.cs",
+              "DocumentMoniker": "C:\\PortfoliioPiece\\Portfolio-Piece\\Portfolio Piece\\Assets\\Script\\CameraController.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\CameraController.cs",
+              "ToolTip": "C:\\PortfoliioPiece\\Portfolio-Piece\\Portfolio Piece\\Assets\\Script\\CameraController.cs",
+              "RelativeToolTip": "Assets\\Script\\CameraController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T22:30:28.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "AudioManager.cs",
               "DocumentMoniker": "C:\\PortfoliioPiece\\Portfolio-Piece\\Portfolio Piece\\Assets\\Script\\AudioManager.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\AudioManager.cs",
               "ToolTip": "C:\\PortfoliioPiece\\Portfolio-Piece\\Portfolio Piece\\Assets\\Script\\AudioManager.cs",
               "RelativeToolTip": "Assets\\Script\\AudioManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAABqAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAawDAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-29T13:08:46.432Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "PlayerController.cs",
               "DocumentMoniker": "C:\\PortfoliioPiece\\Portfolio-Piece\\Portfolio Piece\\Assets\\Script\\PlayerController.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\PlayerController.cs",
               "ToolTip": "C:\\PortfoliioPiece\\Portfolio-Piece\\Portfolio Piece\\Assets\\Script\\PlayerController.cs",
               "RelativeToolTip": "Assets\\Script\\PlayerController.cs",
-              "ViewState": "AgIAADsAAAAAAAAAAAAAAE0AAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-28T02:31:48.568Z",
               "EditorCaption": ""
@@ -100,127 +98,21 @@
               "RelativeToolTip": "Assets\\Script\\Rotator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T02:51:00.197Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Emission.shader",
-              "DocumentMoniker": "C:\\PortfoliioPiece\\Portfolio-Piece\\Portfolio Piece\\Assets\\Shaders\\Emission.shader",
-              "RelativeDocumentMoniker": "Assets\\Shaders\\Emission.shader",
-              "ToolTip": "C:\\PortfoliioPiece\\Portfolio-Piece\\Portfolio Piece\\Assets\\Shaders\\Emission.shader",
-              "RelativeToolTip": "Assets\\Shaders\\Emission.shader",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
-              "WhenOpened": "2025-11-29T01:10:24.514Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "SpecularMetallic.shader",
-              "DocumentMoniker": "C:\\PortfoliioPiece\\Portfolio-Piece\\Portfolio Piece\\Assets\\Shaders\\SpecularMetallic.shader",
-              "RelativeDocumentMoniker": "Assets\\Shaders\\SpecularMetallic.shader",
-              "ToolTip": "C:\\PortfoliioPiece\\Portfolio-Piece\\Portfolio Piece\\Assets\\Shaders\\SpecularMetallic.shader",
-              "RelativeToolTip": "Assets\\Shaders\\SpecularMetallic.shader",
-              "ViewState": "AgIAACMAAAAAAAAAAAAiwDkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
-              "WhenOpened": "2025-11-29T00:29:58.661Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ColourVertex.shader",
-              "DocumentMoniker": "C:\\PortfoliioPiece\\Portfolio-Piece\\Portfolio Piece\\Assets\\Shaders\\ColourVertex.shader",
-              "RelativeDocumentMoniker": "Assets\\Shaders\\ColourVertex.shader",
-              "ToolTip": "C:\\PortfoliioPiece\\Portfolio-Piece\\Portfolio Piece\\Assets\\Shaders\\ColourVertex.shader",
-              "RelativeToolTip": "Assets\\Shaders\\ColourVertex.shader",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAACEAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
-              "WhenOpened": "2025-11-29T01:16:39.775Z"
+              "WhenOpened": "2025-11-28T02:51:00.197Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Enemy.cs",
-              "DocumentMoniker": "C:\\PortfoliioPiece\\Portfolio-Piece\\Portfolio Piece\\Assets\\Script\\Enemy.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\Enemy.cs",
-              "ToolTip": "C:\\PortfoliioPiece\\Portfolio-Piece\\Portfolio Piece\\Assets\\Script\\Enemy.cs",
-              "RelativeToolTip": "Assets\\Script\\Enemy.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T16:29:45.222Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "MainMenuToGame.cs",
               "DocumentMoniker": "C:\\PortfoliioPiece\\Portfolio-Piece\\Portfolio Piece\\Assets\\Script\\MainMenuToGame.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\MainMenuToGame.cs",
               "ToolTip": "C:\\PortfoliioPiece\\Portfolio-Piece\\Portfolio Piece\\Assets\\Script\\MainMenuToGame.cs",
               "RelativeToolTip": "Assets\\Script\\MainMenuToGame.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-29T01:24:22.271Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CameraController.cs",
-              "DocumentMoniker": "C:\\PortfoliioPiece\\Portfolio-Piece\\Portfolio Piece\\Assets\\Script\\CameraController.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\CameraController.cs",
-              "ToolTip": "C:\\PortfoliioPiece\\Portfolio-Piece\\Portfolio Piece\\Assets\\Script\\CameraController.cs",
-              "RelativeToolTip": "Assets\\Script\\CameraController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T02:41:24.022Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "BumpMapping.shader",
-              "DocumentMoniker": "C:\\PortfoliioPiece\\Portfolio-Piece\\Portfolio Piece\\Assets\\Shaders\\BumpMapping.shader",
-              "RelativeDocumentMoniker": "Assets\\Shaders\\BumpMapping.shader",
-              "ToolTip": "C:\\PortfoliioPiece\\Portfolio-Piece\\Portfolio Piece\\Assets\\Shaders\\BumpMapping.shader",
-              "RelativeToolTip": "Assets\\Shaders\\BumpMapping.shader",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
-              "WhenOpened": "2025-11-29T00:33:48.313Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "NormalMapping.shader",
-              "DocumentMoniker": "C:\\PortfoliioPiece\\Portfolio-Piece\\Portfolio Piece\\Assets\\Shaders\\NormalMapping.shader",
-              "RelativeDocumentMoniker": "Assets\\Shaders\\NormalMapping.shader",
-              "ToolTip": "C:\\PortfoliioPiece\\Portfolio-Piece\\Portfolio Piece\\Assets\\Shaders\\NormalMapping.shader",
-              "RelativeToolTip": "Assets\\Shaders\\NormalMapping.shader",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
-              "WhenOpened": "2025-11-29T01:02:32.696Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Hologram.shader",
-              "DocumentMoniker": "C:\\PortfoliioPiece\\Portfolio-Piece\\Portfolio Piece\\Assets\\Shaders\\Hologram.shader",
-              "RelativeDocumentMoniker": "Assets\\Shaders\\Hologram.shader",
-              "ToolTip": "C:\\PortfoliioPiece\\Portfolio-Piece\\Portfolio Piece\\Assets\\Shaders\\Hologram.shader",
-              "RelativeToolTip": "Assets\\Shaders\\Hologram.shader",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
-              "WhenOpened": "2025-11-29T01:13:35.357Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "PlayAudio.cs",
-              "DocumentMoniker": "C:\\PortfoliioPiece\\Portfolio-Piece\\Portfolio Piece\\Assets\\PlayAudio.cs",
-              "RelativeDocumentMoniker": "Assets\\PlayAudio.cs",
-              "ToolTip": "C:\\PortfoliioPiece\\Portfolio-Piece\\Portfolio Piece\\Assets\\PlayAudio.cs",
-              "RelativeToolTip": "Assets\\PlayAudio.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-29T01:47:58.324Z"
+              "WhenOpened": "2025-11-29T01:24:22.271Z",
+              "EditorCaption": ""
             }
           ]
         }

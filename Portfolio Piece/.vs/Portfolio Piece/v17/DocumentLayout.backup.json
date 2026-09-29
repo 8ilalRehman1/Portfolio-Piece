@@ -3,15 +3,11 @@
   "WorkspaceRootPath": "C:\\PortfoliioPiece\\Portfolio-Piece\\Portfolio Piece\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{86DACA80-A731-688E-397A-7857ADC0BE9B}|Assembly-CSharp.csproj|C:\\PortfoliioPiece\\Portfolio-Piece\\Portfolio Piece\\assets\\script\\enemydyingsound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{86DACA80-A731-688E-397A-7857ADC0BE9B}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\enemydyingsound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{86DACA80-A731-688E-397A-7857ADC0BE9B}|Assembly-CSharp.csproj|C:\\PortfoliioPiece\\Portfolio-Piece\\Portfolio Piece\\assets\\script\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86DACA80-A731-688E-397A-7857ADC0BE9B}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{86DACA80-A731-688E-397A-7857ADC0BE9B}|Assembly-CSharp.csproj|C:\\PortfoliioPiece\\Portfolio-Piece\\Portfolio Piece\\assets\\script\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{86DACA80-A731-688E-397A-7857ADC0BE9B}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{86DACA80-A731-688E-397A-7857ADC0BE9B}|Assembly-CSharp.csproj|C:\\PortfoliioPiece\\Portfolio-Piece\\Portfolio Piece\\assets\\script\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{86DACA80-A731-688E-397A-7857ADC0BE9B}|Assembly-CSharp.csproj|c:\\portfoliiopiece\\portfolio-piece\\portfolio piece\\assets\\script\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{86DACA80-A731-688E-397A-7857ADC0BE9B}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -23,12 +19,12 @@
       "RelativeMoniker": "D:0:0:{86DACA80-A731-688E-397A-7857ADC0BE9B}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\rotator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{86DACA80-A731-688E-397A-7857ADC0BE9B}|Assembly-CSharp.csproj|C:\\PortfoliioPiece\\Portfolio-Piece\\Portfolio Piece\\assets\\script\\mainmenutogame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{86DACA80-A731-688E-397A-7857ADC0BE9B}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\mainmenutogame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{86DACA80-A731-688E-397A-7857ADC0BE9B}|Assembly-CSharp.csproj|C:\\PortfoliioPiece\\Portfolio-Piece\\Portfolio Piece\\assets\\script\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86DACA80-A731-688E-397A-7857ADC0BE9B}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{86DACA80-A731-688E-397A-7857ADC0BE9B}|Assembly-CSharp.csproj|C:\\PortfoliioPiece\\Portfolio-Piece\\Portfolio Piece\\assets\\script\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{86DACA80-A731-688E-397A-7857ADC0BE9B}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{86DACA80-A731-688E-397A-7857ADC0BE9B}|Assembly-CSharp.csproj|C:\\PortfoliioPiece\\Portfolio-Piece\\Portfolio Piece\\assets\\script\\mainmenutogame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86DACA80-A731-688E-397A-7857ADC0BE9B}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\mainmenutogame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{86DACA80-A731-688E-397A-7857ADC0BE9B}|Assembly-CSharp.csproj|C:\\PortfoliioPiece\\Portfolio-Piece\\Portfolio Piece\\assets\\shaders\\emission.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
@@ -66,49 +62,36 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "AudioManager.cs",
               "DocumentMoniker": "C:\\PortfoliioPiece\\Portfolio-Piece\\Portfolio Piece\\Assets\\Script\\AudioManager.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\AudioManager.cs",
               "ToolTip": "C:\\PortfoliioPiece\\Portfolio-Piece\\Portfolio Piece\\Assets\\Script\\AudioManager.cs",
               "RelativeToolTip": "Assets\\Script\\AudioManager.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwCgAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAxwA8AAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-29T13:08:46.432Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "EnemyDyingSound.cs",
-              "DocumentMoniker": "C:\\PortfoliioPiece\\Portfolio-Piece\\Portfolio Piece\\Assets\\Script\\EnemyDyingSound.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\EnemyDyingSound.cs",
-              "ToolTip": "C:\\PortfoliioPiece\\Portfolio-Piece\\Portfolio Piece\\Assets\\Script\\EnemyDyingSound.cs",
-              "RelativeToolTip": "Assets\\Script\\EnemyDyingSound.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-30T23:44:34.87Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "PlayerController.cs",
               "DocumentMoniker": "C:\\PortfoliioPiece\\Portfolio-Piece\\Portfolio Piece\\Assets\\Script\\PlayerController.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\PlayerController.cs",
               "ToolTip": "C:\\PortfoliioPiece\\Portfolio-Piece\\Portfolio Piece\\Assets\\Script\\PlayerController.cs",
               "RelativeToolTip": "Assets\\Script\\PlayerController.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAQwDUAAAA5AAAAAAAAAA==",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAkwDcAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-28T02:31:48.568Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Rotator.cs",
               "DocumentMoniker": "C:\\PortfoliioPiece\\Portfolio-Piece\\Portfolio Piece\\Assets\\Script\\Rotator.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\Rotator.cs",
@@ -120,7 +103,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "Emission.shader",
               "DocumentMoniker": "C:\\PortfoliioPiece\\Portfolio-Piece\\Portfolio Piece\\Assets\\Shaders\\Emission.shader",
               "RelativeDocumentMoniker": "Assets\\Shaders\\Emission.shader",
@@ -132,7 +115,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "SpecularMetallic.shader",
               "DocumentMoniker": "C:\\PortfoliioPiece\\Portfolio-Piece\\Portfolio Piece\\Assets\\Shaders\\SpecularMetallic.shader",
               "RelativeDocumentMoniker": "Assets\\Shaders\\SpecularMetallic.shader",
@@ -144,7 +127,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 10,
               "Title": "ColourVertex.shader",
               "DocumentMoniker": "C:\\PortfoliioPiece\\Portfolio-Piece\\Portfolio Piece\\Assets\\Shaders\\ColourVertex.shader",
               "RelativeDocumentMoniker": "Assets\\Shaders\\ColourVertex.shader",
@@ -156,16 +139,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Enemy.cs",
               "DocumentMoniker": "C:\\PortfoliioPiece\\Portfolio-Piece\\Portfolio Piece\\Assets\\Script\\Enemy.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\Enemy.cs",
               "ToolTip": "C:\\PortfoliioPiece\\Portfolio-Piece\\Portfolio Piece\\Assets\\Script\\Enemy.cs",
               "RelativeToolTip": "Assets\\Script\\Enemy.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T16:29:45.222Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-28T16:29:45.222Z"
             },
             {
               "$type": "Document",
@@ -175,25 +157,26 @@
               "RelativeDocumentMoniker": "Assets\\Script\\MainMenuToGame.cs",
               "ToolTip": "C:\\PortfoliioPiece\\Portfolio-Piece\\Portfolio Piece\\Assets\\Script\\MainMenuToGame.cs",
               "RelativeToolTip": "Assets\\Script\\MainMenuToGame.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-29T01:24:22.271Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "CameraController.cs",
               "DocumentMoniker": "C:\\PortfoliioPiece\\Portfolio-Piece\\Portfolio Piece\\Assets\\Script\\CameraController.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\CameraController.cs",
               "ToolTip": "C:\\PortfoliioPiece\\Portfolio-Piece\\Portfolio Piece\\Assets\\Script\\CameraController.cs",
               "RelativeToolTip": "Assets\\Script\\CameraController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T02:41:24.022Z"
+              "WhenOpened": "2025-11-28T02:41:24.022Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 12,
               "Title": "BumpMapping.shader",
               "DocumentMoniker": "C:\\PortfoliioPiece\\Portfolio-Piece\\Portfolio Piece\\Assets\\Shaders\\BumpMapping.shader",
               "RelativeDocumentMoniker": "Assets\\Shaders\\BumpMapping.shader",
@@ -205,7 +188,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "NormalMapping.shader",
               "DocumentMoniker": "C:\\PortfoliioPiece\\Portfolio-Piece\\Portfolio Piece\\Assets\\Shaders\\NormalMapping.shader",
               "RelativeDocumentMoniker": "Assets\\Shaders\\NormalMapping.shader",
@@ -217,7 +200,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 11,
               "Title": "Hologram.shader",
               "DocumentMoniker": "C:\\PortfoliioPiece\\Portfolio-Piece\\Portfolio Piece\\Assets\\Shaders\\Hologram.shader",
               "RelativeDocumentMoniker": "Assets\\Shaders\\Hologram.shader",
@@ -229,7 +212,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
               "Title": "PlayAudio.cs",
               "DocumentMoniker": "C:\\PortfoliioPiece\\Portfolio-Piece\\Portfolio Piece\\Assets\\PlayAudio.cs",
               "RelativeDocumentMoniker": "Assets\\PlayAudio.cs",

@@ -13,6 +13,7 @@ public class AudioManager : MonoBehaviour
     [SerializeField] AudioClip coinSFXclip;
     [SerializeField] AudioClip enemyDeathClip;
     [SerializeField] AudioClip playerDeathClip;
+    [SerializeField] AudioClip musicClip;
     //all of the variables for the sounds
     private void Awake()
     {
@@ -28,12 +29,11 @@ public class AudioManager : MonoBehaviour
         }
     }
 
-    public void PlayMusic(AudioClip clip)
+    public void PlayMusic()
     {
-        musicSource.clip = clip;
+        musicSource.clip = musicClip;
         musicSource.Play();
-    } //there is mulitple music so the funciton should take a parameter
-    //the rest of the sounds are only played within the main game and there is only one sound per function
+    } 
 
     public void PlayCoinSFX()
     {
@@ -45,6 +45,10 @@ public class AudioManager : MonoBehaviour
     {
         enemyDeathNoise.clip = enemyDeathClip;
         enemyDeathNoise.Play();
+        if (enemyDeathNoise == null)
+        {
+            enemyDeathNoise.Stop();
+        }
     }
 
     public void PlayPlayerDeathSound()
