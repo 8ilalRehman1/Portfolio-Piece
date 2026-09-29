@@ -15,9 +15,6 @@ public class PlayerController : MonoBehaviour
     public TextMeshProUGUI countText;
     public float speed = 0;
     public GameObject winTextObject;
-    public AudioSource soundSource;
-    public AudioSource sourceOfSong;
-    public AudioClip coinSound, playerDying, song2;
     public string sceneName;
 
     // Start is called before the first frame update
@@ -27,8 +24,6 @@ public class PlayerController : MonoBehaviour
         count = 0;
         SetCountText();
         winTextObject.SetActive(false);
-        sourceOfSong.clip = song2;
-        sourceOfSong.Play();
     }
     private void FixedUpdate()
     {
@@ -49,17 +44,16 @@ public class PlayerController : MonoBehaviour
             other.gameObject.SetActive(false);
             count = count + 1;
             SetCountText();
-            soundSource.clip = coinSound;
-            soundSource.Play();
+            AudioManager.instance.PlayCoinSFX();
         }
 
     }
     void SetCountText()
     {
-        countText.text = "Count: " + count.ToString();
+        countText.text = "Coin: " + count.ToString();
         if (count == 6)
         {
-            soundSource.Play();
+            AudioManager.instance.PlayEnemyDeathSound();
             winTextObject.SetActive(true);
             Destroy(GameObject.FindGameObjectWithTag("Enemy"));
             StartCoroutine(DeathDelay());
@@ -75,14 +69,13 @@ public class PlayerController : MonoBehaviour
             // Update the winText to display "You Lose!"
             winTextObject.gameObject.SetActive(true);
             winTextObject.GetComponent<TextMeshProUGUI>().text = "You Lose!";
-            soundSource.clip = playerDying;
-            soundSource.Play();
+
         }
     }
     IEnumerator DeathDelay()
     {
         yield return new WaitForSeconds(3.0f); // Wait for 3 seconds
-        soundSource.Play();
+        
         SceneManager.LoadScene(sceneName);
 
     }
