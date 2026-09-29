@@ -3,15 +3,8 @@
 A portfolio piece from Bilal Rehman which features lively music, powerful sound effects and stunning shaders within Unity Engine. Along side programming for a feature-rich roll a ball game where you must collect all the coins to defeat the enemy while avoiding the obstacles. Music was created using SoundTrap and sound effects were sourced locally and edited using Adobe Audition. Shaders within the game are made in Unity Engine using Shader Lab.
 Diagram:
 
-class Audio Manager
-  class Singleton
-  {
-    -static instance ; singleton
-    -singleton()
-    +getInstance() ; singleton
-    +function()
-  }
-  singleton < client uses the getInstance()
+  <img width="438" height="274" alt="image" src="https://github.com/user-attachments/assets/fa5cd5c4-16b6-49b5-b1b1-2b2f25ad8a1e" />
+
   
 What element of your game adopts the chosen pattern?
 The audio manager adopts the singleton pattern. The original game that I made a while back had a audio manager script and a play audio script for some reason and a enemy audio script too. so to implement singleton pattern I combined all off the scripts into one. That way there is only one audio manager that handles all of the audio clips. 
